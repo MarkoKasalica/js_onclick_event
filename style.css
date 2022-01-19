@@ -1,0 +1,12 @@
+body{     
+    font-family: sans-serif;
+     background: rgb(67, 207, 67);  
+
+
+}
+.flex-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
